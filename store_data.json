@@ -2,8 +2,8 @@
   "games": [
     {
       "id": "com.vmm.myvrgame",
-      "title": "Modded Game Title",
-      "description": "Dihscription",
+      "title": "Secret Tag",
+      "description": "For Fun",
       "version": "1.0.0",
       "downloadUrl": "https://github.com/apricityzentrix-ctrl/VMMSTORE/releases/download/v1.0.0/game.apk"
     }
